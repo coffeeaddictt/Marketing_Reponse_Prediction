@@ -16,6 +16,8 @@ Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Data Sc
 │   ├── figures/                # Graphiques générés
 │   └── reports/                # Rapports de performance (AUC, précision, rappel)
 └── README.md                   # Ce fichier
+
+
 ## Utilisation
 
 ### Cloner le dépôt
