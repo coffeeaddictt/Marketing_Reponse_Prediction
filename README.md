@@ -8,13 +8,13 @@ Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Data Sc
 
 ### Cloner le dépôt
 
-```bash
+bash
 git clone https://github.com/<votre-utilisateur>/mini-projet-2-marketing.git
 cd mini-projet-2-marketing
 
 ### Lancer le notebook Jupyter
 
-```bash
+bash
 jupyter notebook notebooks/MiniProjet_{2}_<OUARAZ Sanaa:Asmaa>.ipynb
 ### Suivre les cellules pour :
 
