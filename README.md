@@ -4,20 +4,6 @@
 
 Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Data Science. L'objectif est de développer et comparer plusieurs modèles de machine learning pour prédire la probabilité qu'un client réponde positivement à une campagne marketing.
 
-## Structure du dépôt
-
-```text
-├── data/                       # Données brutes et prétraitées
-│   ├── raw/                    # Données originales
-│   └── processed/              # Données après nettoyage et transformation
-├── notebooks/                  # Notebook Jupyter du projet
-│   └── MiniProjet_{2}_<OUARAZ Sanaa:Asmaa>.ipynb
-├── outputs/                    # Résultats et visualisations
-│   ├── figures/                # Graphiques générés
-│   └── reports/                # Rapports de performance (AUC, précision, rappel)
-└── README.md                   # Ce fichier
-
-
 ## Utilisation
 
 ### Cloner le dépôt
