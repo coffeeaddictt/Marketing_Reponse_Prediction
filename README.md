@@ -16,23 +16,34 @@ Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Data Sc
 │   ├── figures/                # Graphiques générés
 │   └── reports/                # Rapports de performance (AUC, précision, rappel)
 └── README.md                   # Ce fichier
-Utilisation
+## Utilisation
 
-Cloner le dépôt :
+### Cloner le dépôt
+
+```bash
 git clone https://github.com/<votre-utilisateur>/mini-projet-2-marketing.git
 cd mini-projet-2-marketing
-Lancer le notebook Jupyter :
+
+### Lancer le notebook Jupyter
+
+```bash
 jupyter notebook notebooks/MiniProjet_{2}_<OUARAZ Sanaa:Asmaa>.ipynb
-Suivre les cellules pour :
-Charger et explorer les données
-Prétraiter et ingérer les variables
-Entraîner et valider les modèles (régression logistique, arbres de décision, forêts aléatoires, gradient boosting)
-Évaluer les performances sur le jeu de test (AUC, précision, rappel)
-Résultats principaux
+### Suivre les cellules pour :
 
-Meilleur modèle : gradient boosting (AUC = 0,82)
-Forêt aléatoire : AUC = 0,79
-Détails et visualisations disponibles dans le notebook et dans outputs/reports.
-Auteurs
+- Charger et explorer les données  
+- Prétraiter et ingérer les variables  
+- Entraîner et valider les modèles :
+  - Régression logistique  
+  - Arbres de décision  
+  - Forêts aléatoires  
+  - Gradient Boosting  
+- Évaluer les performances sur le jeu de test :
+  - AUC  
+  - Précision  
+  - Rappel
 
-Asmaa OUARAZ Sanaa
+### Résultats principaux
+
+- **Meilleur modèle : Gradient Boosting** (AUC = 0,82)  
+- **Forêt aléatoire** : AUC = 0,79  
+- Détails et visualisations disponibles dans le notebook et dans `outputs/reports`
