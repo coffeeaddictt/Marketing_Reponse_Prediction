@@ -1,1 +1,38 @@
-# Marketing_Reponse_Prediction
+# Marketing_Reponse_Prediction (Mini-Projet 2)
+
+## Description
+
+Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Data Science. L'objectif est de développer et comparer plusieurs modèles de machine learning pour prédire la probabilité qu'un client réponde positivement à une campagne marketing.
+
+## Structure du dépôt
+
+```text
+├── data/                       # Données brutes et prétraitées
+│   ├── raw/                    # Données originales
+│   └── processed/              # Données après nettoyage et transformation
+├── notebooks/                  # Notebook Jupyter du projet
+│   └── MiniProjet_{2}_<OUARAZ Sanaa:Asmaa>.ipynb
+├── outputs/                    # Résultats et visualisations
+│   ├── figures/                # Graphiques générés
+│   └── reports/                # Rapports de performance (AUC, précision, rappel)
+└── README.md                   # Ce fichier
+Utilisation
+
+Cloner le dépôt :
+git clone https://github.com/<votre-utilisateur>/mini-projet-2-marketing.git
+cd mini-projet-2-marketing
+Lancer le notebook Jupyter :
+jupyter notebook notebooks/MiniProjet_{2}_<OUARAZ Sanaa:Asmaa>.ipynb
+Suivre les cellules pour :
+Charger et explorer les données
+Prétraiter et ingérer les variables
+Entraîner et valider les modèles (régression logistique, arbres de décision, forêts aléatoires, gradient boosting)
+Évaluer les performances sur le jeu de test (AUC, précision, rappel)
+Résultats principaux
+
+Meilleur modèle : gradient boosting (AUC = 0,82)
+Forêt aléatoire : AUC = 0,79
+Détails et visualisations disponibles dans le notebook et dans outputs/reports.
+Auteurs
+
+Asmaa OUARAZ Sanaa
