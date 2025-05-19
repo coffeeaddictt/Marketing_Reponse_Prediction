@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Data Science. L'objectif est de développer et comparer plusieurs modèles de machine learning pour prédire la probabilité qu'un client réponde positivement à une campagne marketing.
+Ce dépôt contient le Mini-Projet 2 réalisé dans le cadre du cours de Machine Learning. L'objectif est de développer et comparer plusieurs modèles de machine learning pour prédire la probabilité qu'un client réponde positivement à une campagne marketing.
 
 ## Utilisation
 
